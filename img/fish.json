@@ -1,0 +1,18 @@
+[
+    {
+        "caption": "A StrippedFish",
+        "url": "http://pseudorandombits.com/jccc/javascript/carousel/fish-01.jpg"
+    },
+    {
+        "caption": "Another Fish",
+        "url": "http://pseudorandombits.com/jccc/javascript/carousel/fish-02.jpg"
+    },
+    {
+        "caption": "A Fish With a Black Mark",
+        "url": "http://pseudorandombits.com/jccc/javascript/carousel/fish-03.jpg"
+    },
+    {
+        "caption": "A Golden Fish",
+        "url": "http://pseudorandombits.com/jccc/javascript/carousel/fish-04.jpg"
+    }
+]

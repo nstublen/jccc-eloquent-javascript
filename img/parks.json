@@ -1,0 +1,22 @@
+[
+    {
+        "caption": "Banff National Park",
+        "url": "http://pseudorandombits.com/jccc/javascript/carousel/banff-national-park.jpg"
+    },
+    {
+        "caption": "Glacier National Park",
+        "url": "http://pseudorandombits.com/jccc/javascript/carousel/glacier-national-park.jpg"
+    },
+    {
+        "caption": "Grand Teton National Park",
+        "url": "http://pseudorandombits.com/jccc/javascript/carousel/grand-teton-national-park.jpg"
+    },
+    {
+        "caption": "Yellowstone National Park",
+        "url": "http://pseudorandombits.com/jccc/javascript/carousel/yellowstone-national-park.jpg"
+    },
+    {
+        "caption": "Yosemite National Park",
+        "url": "http://pseudorandombits.com/jccc/javascript/carousel/yosemite-national-park.jpg"
+    }
+]

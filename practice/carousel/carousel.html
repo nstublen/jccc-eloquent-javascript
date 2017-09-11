@@ -1,0 +1,46 @@
+<!doctype html>
+<html>
+
+<head>
+    <title>Image Carousel</title>
+    <script src="carousel.js"></script>
+    <script src="images.js"></script>
+    
+    <style>
+        #carousel {
+            height: 600px;
+            margin: 0 auto;
+            position: relative;
+            overflow: hidden;
+            width: 800px;
+        }
+
+        .slide {
+            background-position: center center;
+            background-repeat: no-repeat;
+            height: 600px;
+            position: absolute;
+            top: 0;
+            width: 800px;
+
+            transition: left 0.5s ease-in-out;
+        }
+
+        .caption {
+            text-align: center;
+        }
+    </style>
+</head>
+
+<body>
+    <!-- Build an image carousel that will rotate through
+        a set of images, then loop back to the first image.
+        The carousel should automatically advance to the
+        next image every 2 seconds. -->
+
+    <div id="carousel">
+    </div>
+
+</body>
+
+</html>
